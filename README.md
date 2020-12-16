@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [AppEatIt](https://github.com/boldCM/AppEatIt)
       My project for graduating from Neue Fische Bootcamp in Cologne.
       
-- 💬 Ask me about my top 5 strengths [Clifton Strength Finder](https://www.gallup.com/cliftonstrengths/en/home.aspx)
+- 💬 Ask me about my top 5 strengths detected by [Clifton Strength Finder](https://www.gallup.com/cliftonstrengths/en/home.aspx)
 
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <hr>
 <h4 align="left">Get in touch with me:</h4>
-<a href="www.linkedin.com/in/carolin-m-0042971b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cMeier" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/www.linkedin.com/in/carolin-meier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cMeier" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
