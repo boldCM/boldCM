@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [AppEatIt](https://github.com/boldCM/AppEatIt)
-
       My project for graduating from Neue Fische Bootcamp in Cologne.
 
 
