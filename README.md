@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋🏻 Caro</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello 👋🏻, I'm Caro</h1>
 
 - 🔭 I’m currently working on [AppEatIt](https://github.com/boldCM/AppEatIt). My project for graduating from Neue Fische Bootcamp in Cologne.
 
